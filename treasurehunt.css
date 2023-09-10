@@ -1,0 +1,48 @@
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    text-underline-position: below;
+}
+
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 35px;
+    border: 6px solid;
+    border-width: 10px;
+    border-style: 10px;
+    background-color: rgb(255, 213, 0);
+}
+
+body {
+    background-color: rgb(192, 192, 192);
+    text-align: center;
+    font-family: 'IBM Plex Mono', monospace;
+}
+ul {
+    text-align;
+    list-style-position: inside;
+    color: white;
+    background-color: black;
+}
+
+#table {
+    margin-left: auto; margin-right: auto;
+    background-color: rgb(255, 200, 0);
+}
+
+footer {
+    text-align: right;
+    font-family: 'Cedarville Cursive', cursive;
+}
+
+button {
+    color: red;
+    background-color: aqua;
+    font-size: 20px;
+}
+
+#captainJack {
+        margin: auto;
+        display: block;
+        border: 5px;
+      }
